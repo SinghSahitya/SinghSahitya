@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/sahitya-singh-044267249/)">
+  <a href="https://www.linkedin.com/in/sahitya-singh-044267249">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[your-twitter-URL](https://twitter.com/Sahitya21410472)">
+  <a href="https://twitter.com/Sahitya21410472">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -25,7 +25,7 @@ I'm Sahitya Singh, a passionate Full Stack Developer and Machine Learning enthus
 - 💻 Currently, I'm honing my skills in both Full Stack Web Development and Machine Learning, diving deep into Python, Django, and various ML frameworks.
 - 📚 Besides coding, I enjoy reading books on a wide range of topics, from technology and science fiction to philosophy and psychology.
 - ⚡ In my free time, you'll find me exploring the latest tech articles, experimenting with new frameworks and libraries, and staying updated with industry best practices in both domains.
-- 📫 Feel free to connect with me on <a href="[your-linkedin-URL](https://www.linkedin.com/in/sahitya-singh-044267249/)">
+- 📫 Feel free to connect with me on <a href="https://www.linkedin.com/in/sahitya-singh-044267249">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 

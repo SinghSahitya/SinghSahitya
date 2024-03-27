@@ -2,17 +2,17 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/sahitya-singh-044267249/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="[your-twitter-URL](https://twitter.com/Sahitya21410472)">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=SinghSahitya&style=flat-square&color=blue" alt=""/>
 
 <h1>
-  hey there
+  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -22,12 +22,12 @@
 
 Welcome to my GitHub profile! 🚀
 
-I'm Sahitya Singh, a passionate Full Stack Developer from India, currently pursuing a Bachelors of Engineering in Computer Science and Masters of Science in Mathematics. 
+I'm Sahitya Singh, a passionate Full Stack Developer and Machine Learning enthusiast from India, currently pursuing a Bachelors of Engineering in Computer Science and Masters of Science in Mathematics. 
 
-- 💻 Currently, I'm honing my skills in Machine Learning, Data Science, and Full Stack Web Development.
-- ✍️ I love sharing my knowledge and experiences through technical blogs, where I write about my projects, tutorials, and insights into emerging technologies.
-- ⚡ In my free time, you'll find me exploring the latest tech articles, experimenting with new frameworks and libraries, and staying updated with industry best practices.
-- 📫 Feel free to connect with me on [LinkedIn](Your LinkedIn Profile Link)!
+- 💻 Currently, I'm honing my skills in both Full Stack Web Development and Machine Learning, diving deep into Python, Django, and various ML frameworks.
+- 📚 Besides coding, I enjoy reading books on a wide range of topics, from technology and science fiction to philosophy and psychology.
+- ⚡ In my free time, you'll find me exploring the latest tech articles, experimenting with new frameworks and libraries, and staying updated with industry best practices in both domains.
+- 📫 Feel free to connect with me on [LinkedIn]([Your LinkedIn Profile Link](https://www.linkedin.com/in/sahitya-singh-044267249/))!
 
 ---
 
